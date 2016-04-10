@@ -1,16 +1,14 @@
-package com.com.mygeneric;
+package com.com.reverser;
 
 /**
  * Class for reversing arrays
- * @param <T> -type
  */
-public class MyGeneric<T> implements MyGenericInterface {
+public class Reverser implements IReverser {
 
     /**
      * default constructor
-     * @param arr - array
      */
-    public MyGeneric(final T[] arr) {
+    public Reverser() {
     }
 
     /**

@@ -1,4 +1,4 @@
 /**
  * package with main class
  */
-package com.com.MainClass;
+package com.com.mainclass;

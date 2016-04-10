@@ -1,10 +1,10 @@
-package com.com.mygeneric;
+package com.com.reverser;
 
 /**
  * Created by wolf on 03.04.16.
  *
  */
-public interface MyGenericInterface {
+public interface IReverser {
 
     /**
      *
