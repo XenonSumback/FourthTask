@@ -8,13 +8,4 @@
     <artifactId>Inv</artifactId>
     <version>1.0-SNAPSHOT</version>
     <contributors></contributors>
-        <archive>
-            <manifest>
-                <addClasspath>true</addClasspath>
-                <classpathPrefix>lib/</classpathPrefix>
-                <mainClass>com.com.mainclass.MainClass</mainClass>
-            </manifest>
-        </archive>
-
-
 </project>
